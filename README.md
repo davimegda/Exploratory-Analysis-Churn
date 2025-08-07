@@ -52,4 +52,3 @@ The analysis was conducted using Google Colaboratory and the Python programming 
 ## 👤 Author
 
 - **Davi Megda Barbosa**
- - Project for portfolio
