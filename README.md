@@ -9,7 +9,7 @@
 ## 🧠 About the project
 A telecommunications company is facing a significant business challenge: a high customer churn rate. Around 26% of its customer base is leaving the company, which poses a serious threat to long-term profitability and customer retention.
 
-## 🎯 Objetivos da Análise
+## 🎯 Objectives:
 The objective of this project is to examine customer data in order to understand the main factors that lead to churn. By identifying patterns and trends among customers who are leaving, we aim to generate insights that can help the company reduce churn and improve customer satisfaction.
 
 By the end of this project, we aim to provide actionable insights that can support the company's decision-making process and contribute to the development of effective churn prevention strategies.
